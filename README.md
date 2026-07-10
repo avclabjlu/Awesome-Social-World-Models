@@ -1,22 +1,92 @@
 <div align="center">
 
-# Awesome Social World Models 
+<!-- Logo / Title -->
+<h1>🌍 Awesome Social World Models</h1>
 
-### Social World Models: A Comprehensive Survey of Theory of Mind and Social Coordination
+<h3>
+  Social World Models: A Comprehensive Survey of Theory of Mind and Social Coordination
+</h3>
 
-Ruoxuan Zhang<sup>1</sup>, Ziqi Liao<sup>1</sup>, Zhiyu Zhou<sup>1</sup>, Jian-Yu Jiang-Lin<sup>2</sup>, Siyu Wu<sup>1</sup>, Yanbo Mao<sup>1</sup>, Bin Wen<sup>3</sup>, Hongxia Xie<sup>1</sup>, Jianlong Fu<sup>4</sup>, Meibao Yao<sup>1</sup>, Shao-Yuan Lo<sup>2</sup>, Wen-Huang Cheng<sup>2</sup>
+<p>
+  <b>🧠 Theory of Mind</b> ·
+  <b>🤖 Embodied AI</b> ·
+  <b>🌐 World Models</b> ·
+  <b>🤝 Social Coordination</b> ·
+  <b>😊 Emotion Modeling</b>
+</p>
 
-<sup>1</sup>Jilin University · <sup>2</sup>National Taiwan University · <sup>3</sup>Nanjing University · <sup>4</sup>Microsoft Research Asia
+<!-- Authors -->
+<p>
+  Ruoxuan Zhang<sup>1</sup>,
+  Ziqi Liao<sup>1</sup>,
+  Zhiyu Zhou<sup>1</sup>,
+  Jian-Yu Jiang-Lin<sup>2</sup>,
+  Siyu Wu<sup>1</sup>,
+  Yanbo Mao<sup>1</sup>,
+  Bin Wen<sup>3</sup>,
+  Hongxia Xie<sup>1</sup>,
+  Jianlong Fu<sup>4</sup>,
+  Meibao Yao<sup>1</sup>,
+  Shao-Yuan Lo<sup>2</sup>,
+  Wen-Huang Cheng<sup>2</sup>
+</p>
+
+<p>
+  <sup>1</sup>Jilin University &nbsp; · &nbsp;
+  <sup>2</sup>National Taiwan University &nbsp; · &nbsp;
+  <sup>3</sup>Nanjing University &nbsp; · &nbsp;
+  <sup>4</sup>Microsoft Research Asia
+</p>
+
+<!-- Badges -->
+<p>
+  <a href="https://github.com/avclabjlu/Awesome-Social-World-Models/blob/main/survey_main.pdf">
+    <img src="https://img.shields.io/badge/Paper-PDF-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Paper PDF">
+  </a>
+  <a href="https://github.com/avclabjlu/Awesome-Social-World-Models">
+    <img src="https://img.shields.io/badge/Awesome-Social_World_Models-4B7BEC?style=for-the-badge&logo=github&logoColor=white" alt="Awesome Social World Models">
+  </a>
+  <a href="https://github.com/avclabjlu/Awesome-Social-World-Models/stargazers">
+    <img src="https://img.shields.io/github/stars/avclabjlu/Awesome-Social-World-Models?style=for-the-badge&logo=github&color=F9D923" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/avclabjlu/Awesome-Social-World-Models/network/members">
+    <img src="https://img.shields.io/github/forks/avclabjlu/Awesome-Social-World-Models?style=for-the-badge&logo=github&color=00C2A8" alt="GitHub forks">
+  </a>
+  <a href="https://github.com/avclabjlu/Awesome-Social-World-Models">
+    <img src="https://img.shields.io/badge/Updated-July_2026-8E44AD?style=for-the-badge" alt="Updated">
+  </a>
+</p>
+
+<!-- Short Slogan -->
+<p>
+  <b>🔥 A curated survey and paper list for social world models, covering mental-state reasoning, emotion understanding, human-robot coordination, and embodied social intelligence.</b>
+</p>
 
 <br>
 
-
-<p align="center">
-  <img src="survey.png" alt="Awesome Social World Models" width="100%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
+<!-- Banner -->
+<p>
+  <img src="survey.png" alt="Awesome Social World Models" width="95%">
 </p>
 
+<br>
 
- [![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)](https://github.com/avclabjlu/Awesome-Social-World-Models/blob/main/survey_main.pdf)
+<!-- Quick Navigation -->
+<p>
+  <a href="#overview">📖 Overview</a> ·
+  <a href="#individual-exploration">🧭 Individual Exploration</a> ·
+  <a href="#internal-mental-state-modelings">🧠 Mental States</a> ·
+  <a href="#theory-of-mind-tom">💡 Theory of Mind</a> ·
+  <a href="#emotions">😊 Emotions</a> ·
+  <a href="#social-coordination-collective-intelligence-and-norms">🤝 Social Coordination</a> ·
+  <a href="#simulators">🖥️ Simulators</a> ·
+  <a href="#citation">📚 Citation</a>
+</p>
+
+<br>
+
+⭐ If you find this repository useful, please consider giving it a star!
+
 </div>
 
 ## Overview
