@@ -16,7 +16,7 @@ Ruoxuan Zhang<sup>1</sup>, Ziqi Liao<sup>1</sup>, Zhiyu Zhou<sup>1</sup>, Jian-Y
 </p>
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-TBD-b31b1b.svg)]() [![Homepage](https://img.shields.io/badge/Homepage-TBD-blue.svg)]() [![PDF](https://img.shields.io/badge/PDF-TBD-green.svg)]()
+ [![PDF](https://img.shields.io/badge/PDF-TBD-green.svg)](https://github.com/avclabjlu/Awesome-Social-World-Models/blob/main/survey_main.pdf)
 
 </div>
 
