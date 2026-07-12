@@ -43,9 +43,6 @@
   <a href="https://github.com/avclabjlu/Awesome-Social-World-Models/blob/main/survey_main.pdf">
     <img src="https://img.shields.io/badge/Paper-PDF-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Paper PDF">
   </a>
-  <a href="https://github.com/avclabjlu/Awesome-Social-World-Models">
-    <img src="https://img.shields.io/badge/Awesome-Social_World_Models-4B7BEC?style=for-the-badge&logo=github&logoColor=white" alt="Awesome Social World Models">
-  </a>
   <a href="https://github.com/avclabjlu/Awesome-Social-World-Models/stargazers">
     <img src="https://img.shields.io/github/stars/avclabjlu/Awesome-Social-World-Models?style=for-the-badge&logo=github&color=F9D923" alt="GitHub stars">
   </a>
@@ -91,30 +88,28 @@
 
 ## Overview
 
-- [Awesome Social World Models](#awesome-social-world-models)
-    - [Social World Models: A Comprehensive Survey of Theory of Mind and Social Coordination](#social-world-models-a-comprehensive-survey-of-theory-of-mind-and-social-coordination)
-  - [Overview](#overview)
-  - [Individual Exploration](#individual-exploration)
-    - [Active Perception and Curiosity-Driven Exploration](#active-perception-and-curiosity-driven-exploration)
-      - [From Pixels to Affordances](#from-pixels-to-affordances)
-      - [Tool-Use and Skill Discovery](#tool-use-and-skill-discovery)
-    - [From Reactive Interaction to Internal World Models](#from-reactive-interaction-to-internal-world-models)
-  - [Internal Mental State Modelings](#internal-mental-state-modelings)
-    - [Theory of Mind (ToM)](#theory-of-mind-tom)
-      - [Theory of Mind: Definition and Core Mental State Components](#theory-of-mind-definition-and-core-mental-state-components)
-      - [Origins of Theory of Mind: Primate Cognition and Developmental Psychology](#origins-of-theory-of-mind-primate-cognition-and-developmental-psychology)
-      - [Taxonomy of Theory of Mind Benchmark and Dataset](#taxonomy-of-theory-of-mind-benchmark-and-dataset)
-      - [Taxonomizing Theory-of-Mind Approaches in Large Language Models](#taxonomizing-theory-of-mind-approaches-in-large-language-models)
-    - [Emotions](#emotions)
-      - [Emotion Understanding](#emotion-understanding)
-      - [Affective Generation](#affective-generation)
-      - [Emotionally and Cognitively Intelligent Digital Humans: Emotion in World Models](#emotionally-and-cognitively-intelligent-digital-humans-emotion-in-world-models)
-      - [From Pattern Matching to Cognitive Resonance](#from-pattern-matching-to-cognitive-resonance)
-  - [Social Coordination: Collective Intelligence and Norms](#social-coordination-collective-intelligence-and-norms)
-    - [Task-Driven Coordination](#task-driven-coordination)
-    - [Human-Robot Coordination](#human-robot-coordination)
-  - [Simulators](#simulators)
-  - [Citation](#citation)
+- [Overview](#overview)
+- [Individual Exploration](#individual-exploration)
+  - [Active Perception and Curiosity-Driven Exploration](#active-perception-and-curiosity-driven-exploration)
+    - [From Pixels to Affordances](#from-pixels-to-affordances)
+    - [Tool-Use and Skill Discovery](#tool-use-and-skill-discovery)
+  - [From Reactive Interaction to Internal World Models](#from-reactive-interaction-to-internal-world-models)
+- [Internal Mental State Modelings](#internal-mental-state-modelings)
+  - [Theory of Mind (ToM)](#theory-of-mind-tom)
+    - [Theory of Mind: Definition and Core Mental State Components](#theory-of-mind-definition-and-core-mental-state-components)
+    - [Origins of Theory of Mind: Primate Cognition and Developmental Psychology](#origins-of-theory-of-mind-primate-cognition-and-developmental-psychology)
+    - [Taxonomy of Theory of Mind Benchmark and Dataset](#taxonomy-of-theory-of-mind-benchmark-and-dataset)
+    - [Taxonomizing Theory-of-Mind Approaches in Large Language Models](#taxonomizing-theory-of-mind-approaches-in-large-language-models)
+  - [Emotions](#emotions)
+    - [Emotion Understanding](#emotion-understanding)
+    - [Affective Generation](#affective-generation)
+    - [Emotionally and Cognitively Intelligent Digital Humans: Emotion in World Models](#emotionally-and-cognitively-intelligent-digital-humans-emotion-in-world-models)
+    - [From Pattern Matching to Cognitive Resonance](#from-pattern-matching-to-cognitive-resonance)
+- [Social Coordination: Collective Intelligence and Norms](#social-coordination-collective-intelligence-and-norms)
+  - [Task-Driven Coordination](#task-driven-coordination)
+  - [Human-Robot Coordination](#human-robot-coordination)
+- [Simulators](#simulators)
+- [Citation](#citation)
 
 
 ## Individual Exploration
@@ -427,4 +422,3 @@
   year    = {2026}
 }
 ```
-
