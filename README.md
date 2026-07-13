@@ -40,7 +40,7 @@
 
 <!-- Badges -->
 <p>
-  <a href="https://github.com/avclabjlu/Awesome-Social-World-Models/blob/main/survey_main.pdf">
+  <a href="https://www.researchgate.net/publication/409127297_Social_World_Models_A_Comprehensive_Survey_of_Theory_of_Mind_and_Social_Coordination?showFulltext=1&linkId=6a5442ee5ec658102990c682">
     <img src="https://img.shields.io/badge/Paper-PDF-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Paper PDF">
   </a>
   <a href="https://github.com/avclabjlu/Awesome-Social-World-Models/stargazers">
